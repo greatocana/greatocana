@@ -2,7 +2,7 @@
 
 ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 ### Hi there 👋, my name is Christian
-I’ve been working at a camp for elementary children this summer, and I’m excited to find my first teaching position for the coming school year. I have several original lesson plans I created during my teaching internship that I look forward to implementing in my own classroom. I attended Brookwood Elementary myself and believe I would be a great fit for your second grade opening. It would be a joy for me to teach students in the same place that sparked my love of learning.”
+I'm from Philippines, I'm Recent Information Technology from Pamantasan ng Lungsod ng Muntinlupa (PLMUN), 
 <br>
 ## Skills:  
 ![Html Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
