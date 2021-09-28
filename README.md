@@ -6,7 +6,7 @@
   <img src="https://profile-counter.glitch.me/greatocana/count.svg" /><br>
 </p>
 
-### Hi there 👋, my name is Christian
+### My name is Christian
 I'm from Philippines, I'm recent Information Technology graduate from Pamantasan ng Lungsod ng Muntinlupa (PLMUN), 
 <br>
 ## Skills:  
