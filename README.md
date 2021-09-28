@@ -1,4 +1,11 @@
-![Profile views](https://gpvc.arturio.dev/greatocana)  
+
+# Hey there :wave:
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/greatocana/count.svg" /><br>
+</p>
+
 ### Hi there 👋, my name is Christian
 I'm from Philippines, I'm recent Information Technology graduate from Pamantasan ng Lungsod ng Muntinlupa (PLMUN), 
 <br>
