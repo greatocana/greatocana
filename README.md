@@ -1,13 +1,10 @@
 <p align="center"> 
-<img src="https://images.unsplash.com/photo-1605379399642-870262d3d051?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=906&q=80" width="450" height="250" />
+<img src="https://images.unsplash.com/photo-1605379399642-870262d3d051?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=906&q=80" width="800" height="260" />
  </p>
- <p align="center"> 
-Visitor count<br>
-<img src="https://profile-counter.glitch.me/greatocana/count.svg" /><br>
-</p>
 
-### My name is Christian
-I'm from Philippines, I'm a recent Information Technology graduate from Pamantasan ng Lungsod ng Muntinlupa (PLMUN), 
+
+## Christian Ocana
+I'm Christian from Philippines, I'm a recent Information Technology graduate from Pamantasan ng Lungsod ng Muntinlupa (PLMUN).
 <br>
 ## Skills:  
 ![Html Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
