@@ -38,4 +38,4 @@ I'm from Philippines, I'm recent Information Technology graduate from Pamantasan
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/christianocana03/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](christianocana08@gmail.com)
 <br><br>
-[![GitHub Status](https://github-readme-stats.vercel.app/api?username=greatocanas&show_icons=true&theme=tokyonight&line_height=35&count_private=true)](https://facebook.com/christian.ocana.3154)
+[![GitHub Status](https://github-readme-stats.vercel.app/api?username=greatocana&show_icons=true&theme=tokyonight&line_height=35&count_private=true)](https://facebook.com/christian.ocana.3154)
