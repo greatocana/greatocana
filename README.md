@@ -2,7 +2,7 @@
 
 ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 ### Hi there 👋, my name is Christian
-I'm from Philippines, I'm Recent Information Technology from Pamantasan ng Lungsod ng Muntinlupa (PLMUN), 
+I'm from Philippines, I'm recent Information Technology graduate from Pamantasan ng Lungsod ng Muntinlupa (PLMUN), 
 <br>
 ## Skills:  
 ![Html Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
