@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1031&q=80">
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/greatocana/count.svg" /><br>
@@ -44,3 +44,14 @@ I'm from Philippines, I'm a recent Information Technology graduate from Pamantas
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](christianocana08@gmail.com)
 <br><br>
 [![GitHub Status](https://github-readme-stats.vercel.app/api?username=greatocana&show_icons=true&theme=tokyonight&line_height=35&count_private=true)](https://facebook.com/christian.ocana.3154)
+
+
+
+
+
+
+
+
+
+
+
