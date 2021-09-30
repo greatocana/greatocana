@@ -1,3 +1,8 @@
+<p>
+<a href="https://github.com/greatocana/greatocana/">
+    <img src="https://komarev.com/ghpvc/?username=greatocana" alt="greatocana" />   
+</a>
+<p>
 <p align="center"> 
 <img src="https://images.unsplash.com/photo-1605379399642-870262d3d051?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=906&q=80" width="800" height="260" />
  </p>
